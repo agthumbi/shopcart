@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\ionicpro\shopcart\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.2.3\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7a1530ac850543228ac856fe951d258efe29f918">
+        <dex dex="F:\ionicpro\shopcart\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-6.2.3-debug_9f4d335f5f559a0e15e0d4442986db2242a5f86b.jar" />
+    </item>
+
+</items>
